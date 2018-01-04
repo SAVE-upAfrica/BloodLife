@@ -19,5 +19,18 @@
 
 }
 .device-mockup .ipad{
-  
+
+}
+.unstyled{
+  list-style: none;
+  border-top: 20px;
+  border-bottom: 20px;
+  text-align: left;
+}
+
+.color_{
+  color: #000;
+}
+.marg_icon{
+  margin-right: 5px;
 }
