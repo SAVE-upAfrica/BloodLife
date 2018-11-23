@@ -1,1 +1,1 @@
-# startbootstrap-new-age-gh-pages
+# BloodLife web template 
